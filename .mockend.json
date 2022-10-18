@@ -1,6 +1,5 @@
 {
   "User": {
-    "title": { "string": {} },
-    "test": "coucou"
+    "title": { "string": {} }
   }
 }
